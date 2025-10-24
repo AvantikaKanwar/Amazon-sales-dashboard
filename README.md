@@ -1,1 +1,2 @@
 # Amazon-sales-dashboard Power -BI Project-4
+I created an Amazon sales dashboard in Power BI by importing and transforming order data to analyze revenue, product performance, and regional trends. Using Power Query and DAX, I built calculated metrics like total sales, average order value, and top-selling categories. The dashboard featured interactive visuals—bar charts, KPIs, and slicers—that allowed users to filter by date, region, and product type for deeper insights into sales dynamics.
